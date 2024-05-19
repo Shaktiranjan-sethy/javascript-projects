@@ -18,7 +18,7 @@ body {
   color: #171717;
   padding: 2rem;
   width: 40%;
-  margin: 4rem auto;
+  margin: 3rem auto;
   border-radius: 10px;
 }
 
@@ -71,8 +71,8 @@ input::placeholder {
   margin-top: 3rem;
 }
 
-.weather_datetime {
-  margin-bottom: 2rem;
+.weather_date_time {
+  margin-bottom: 1rem;
   font-size: 14px;
 }
 
